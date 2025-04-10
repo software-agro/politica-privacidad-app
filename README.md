@@ -24,7 +24,7 @@ No recopilamos información de terceros.
 
 ### ¿Cómo procesamos tu información?
 Procesamos tu información para proporcionar, mejorar y administrar nuestros Servicios, comunicarnos contigo, para seguridad y prevención de fraudes, y para cumplir con la ley. También podemos procesar tu información para otros fines con tu consentimiento.
-Procesamos tu información solo cuando tenemos una razón legal válida para hacerlo. [Más sobre cómo procesamos tu información.](#)
+Procesamos tu información solo cuando tenemos una razón legal válida para hacerlo. [Más sobre cómo procesamos tu información.](#cómo-procesamos-tu-información)
 
 ### ¿En qué situaciones y con qué partes compartimos tu información personal?
 Podemos compartir información en situaciones específicas y con terceros específicos. [Más sobre cuándo y con quién compartimos tu información personal.](#)
@@ -71,50 +71,50 @@ Si usas nuestra(s) aplicación(es), también podemos recopilar la siguiente info
 
 Toda la información personal que nos proporcionas debe ser verdadera, completa y precisa, y debes notificarnos cualquier cambio en dicha información personal.
 
-### 2. ¿CÓMO PROCESAMOS TU INFORMACIÓN? (#como-procesamos-tu-informacion)
+### 2. ¿CÓMO PROCESAMOS TU INFORMACIÓN?
 En resumen: Procesamos tu información para proporcionar, mejorar y administrar nuestros Servicios, comunicarnos contigo, para seguridad y prevención de fraudes, y para cumplir con la ley. También podemos procesar tu información para otros fines con tu consentimiento.
 
 Procesamos tu información personal por varias razones, dependiendo de cómo interactúas con nuestros Servicios.
 
-### 3. ¿EN QUÉ BASES LEGALES NOS BASAMOS PARA PROCESAR TU INFORMACIÓN PERSONAL? (#en-que-bases-legales-nos-basamos)
+### 3. ¿EN QUÉ BASES LEGALES NOS BASAMOS PARA PROCESAR TU INFORMACIÓN PERSONAL?
 En resumen: Solo procesamos tu información personal cuando creemos que es necesario y tenemos una razón legal válida para hacerlo bajo la ley aplicable (por ejemplo, con tu consentimiento, para cumplir con las leyes, para ofrecerte servicios, para cumplir con nuestras obligaciones contractuales, para proteger tus derechos, o para cumplir con nuestros intereses legítimos).
 
 El Reglamento General de Protección de Datos (GDPR) y el GDPR del Reino Unido nos exigen explicar las bases legales válidas que utilizamos para procesar tu información personal.
 
-### 4. ¿CUÁNDO Y CON QUIÉNES COMPARTIMOS TU INFORMACIÓN PERSONAL? (#cuando-y-con-quien-compartimos-tu-informacion)
+### 4. ¿CUÁNDO Y CON QUIÉNES COMPARTIMOS TU INFORMACIÓN PERSONAL?
 En resumen: Podemos compartir información en situaciones específicas y con los siguientes terceros.
 
 Podemos necesitar compartir tu información personal en las siguientes situaciones:
 - **Transferencias comerciales**: Podemos compartir o transferir tu información en relación con cualquier fusión, venta de activos de la empresa, financiamiento o adquisición de todos o parte de nuestro negocio por otra empresa.
 
-### 5. ¿CUÁNTO TIEMPO CONSERVAMOS TU INFORMACIÓN? (#cuanto-tiempo-conservamos-tu-informacion)
+### 5. ¿CUÁNTO TIEMPO CONSERVAMOS TU INFORMACIÓN?
 Solo conservaremos tu información personal durante el tiempo que sea necesario para los fines establecidos en esta Política de Privacidad, a menos que una ley exija un período de retención más largo.
 
-### 6. ¿CÓMO MANTENEMOS TU INFORMACIÓN SEGURA? (#como-mantenemos-tu-informacion-segura)
+### 6. ¿CÓMO MANTENEMOS TU INFORMACIÓN SEGURA?
 En resumen: Nuestra meta es proteger tu información personal mediante un sistema de medidas de seguridad organizacionales y técnicas.
 
 Hemos implementado medidas de seguridad técnicas y organizacionales adecuadas para proteger la seguridad de cualquier información personal que procesamos. Sin embargo, a pesar de nuestras medidas de protección, 
 ninguna transmisión electrónica por internet o tecnología de almacenamiento de información puede garantizar ser 100% segura.
 
-### 7. ¿RECOPILAMOS INFORMACIÓN DE MENORES? (#recopilamos-informacion-de-menores)
+### 7. ¿RECOPILAMOS INFORMACIÓN DE MENORES?
 En resumen: No recopilamos datos conscientemente de niños menores de 18 años ni comercializamos con ellos.
 
 No recopilamos ni solicitamos datos de niños menores de 18 años, ni comercializamos con dicha información personal. Si descubrimos que hemos recopilado información personal de menores de 18 años, desactivaremos la cuenta y tomaremos medidas 
 razonables para eliminar dicha información.
 
-### 8. ¿CUÁLES SON TUS DERECHOS DE PRIVACIDAD? (#cuales-son-tus-derechos-de-privacidad)
+### 8. ¿CUÁLES SON TUS DERECHOS DE PRIVACIDAD?
 En resumen: En algunas regiones, como el Área Económica Europea (EEA), el Reino Unido (UK) y Suiza, tienes derechos que te otorgan mayor acceso y control sobre tu información personal.
 
 Puedes revisar, cambiar o desactivar tu cuenta en cualquier momento, dependiendo de tu país, provincia o estado de residencia.
 
-### 9. CONTROLES PARA FUNCIONES DE NO RASTREAR (#controles-para-funciones-de-no-rastrear)
+### 9. CONTROLES PARA FUNCIONES DE NO RASTREAR
 La mayoría de los navegadores web y algunos sistemas operativos móviles incluyen una función de No Rastrear (DNT) que puedes activar para señalar tu preferencia de privacidad de no tener tus actividades de navegación en línea monitorizadas
 y recopiladas. Actualmente, no respondemos a señales DNT o mecanismos similares.
 
-### 10. ¿REALIZAMOS ACTUALIZACIONES A ESTA POLÍTICA? (#realizamos-actualizaciones)
+### 10. ¿REALIZAMOS ACTUALIZACIONES A ESTA POLÍTICA?
 Sí, actualizaremos esta política según sea necesario para cumplir con las leyes relevantes.
 
-### 11. ¿CÓMO PUEDE CONTACTARNOS SOBRE ESTA POLÍTICA? (#como-puede-contactarnos)
+### 11. ¿CÓMO PUEDE CONTACTARNOS SOBRE ESTA POLÍTICA?
 Si tienes preguntas o comentarios sobre esta política, puedes enviarnos un correo electrónico a diego@mercadomontilla.com
 
 ### 12. ¿CÓMO PUEDE REVISAR, ACTUALIZAR O ELIMINAR LOS DATOS QUE RECOPILAMOS SOBRE USTED?
