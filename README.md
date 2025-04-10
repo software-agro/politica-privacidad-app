@@ -9,12 +9,10 @@ Esta Política de Privacidad de Mercado Montilla ("nosotros," "nos" o "nuestro")
 Si no estás de acuerdo con nuestras políticas y prácticas, por favor, no utilices nuestros Servicios. Si aún tienes preguntas o preocupaciones, contáctanos en diego@mercadomontilla.com.
 
 ## RESUMEN DE PUNTOS CLAVE
-Este resumen proporciona puntos clave de nuestra Política de Privacidad, pero puedes encontrar más detalles sobre cualquiera de estos temas haciendo clic en el enlace correspondiente a cada punto clave o utilizando nuestra tabla de contenido
-a continuación para encontrar la sección que buscas.
+Este resumen proporciona los puntos clave de nuestra Política de Privacidad, pero puedes encontrar más detalles sobre cualquiera de estos temas en las secciones siguientes.
 
 ### ¿Qué información personal procesamos?
 Cuando visitas, usas o navegas por nuestros Servicios, podemos procesar información personal dependiendo de cómo interactúas con nosotros y los Servicios, las opciones que elijas y los productos y características que uses. 
-[Más información sobre la información personal que nos revelas.](#1-qué-información-recopilamos)
 
 ### ¿Procesamos alguna información personal sensible?
 Algunas de las informaciones pueden considerarse "especiales" o "sensibles" en ciertas jurisdicciones, como tus orígenes raciales o étnicos, orientación sexual y creencias religiosas. No procesamos información personal sensible.
@@ -23,22 +21,19 @@ Algunas de las informaciones pueden considerarse "especiales" o "sensibles" en c
 No recopilamos información de terceros.
 
 ### ¿Cómo procesamos tu información?
-Procesamos tu información para proporcionar, mejorar y administrar nuestros Servicios, comunicarnos contigo, para seguridad y prevención de fraudes, y para cumplir con la ley. También podemos procesar tu información para otros fines con tu consentimiento.
-Procesamos tu información solo cuando tenemos una razón legal válida para hacerlo. [Más sobre cómo procesamos tu información.](#cómo-procesamos-tu-información)
+Procesamos tu información para proporcionar, mejorar y administrar nuestros Servicios, comunicarnos contigo, para seguridad y prevención de fraudes, y para cumplir con la ley. También podemos procesar tu información para otros fines con tu consentimiento. Procesamos tu información solo cuando tenemos una razón legal válida para hacerlo.
 
 ### ¿En qué situaciones y con qué partes compartimos tu información personal?
-Podemos compartir información en situaciones específicas y con terceros específicos. [Más sobre cuándo y con quién compartimos tu información personal.](#)
+Podemos compartir información en situaciones específicas y con terceros específicos.
 
 ### ¿Cómo mantenemos tu información segura?
-Contamos con procesos y procedimientos organizacionales y técnicos adecuados para proteger tu información personal. Sin embargo, ninguna transmisión electrónica por internet o tecnología de almacenamiento de información puede garantizar ser
-100% segura, por lo que no podemos prometer o garantizar que hackers, ciberdelincuentes u otras partes no autorizadas puedan derrotar nuestra seguridad y recolectar, acceder, robar o modificar tu información. 
-[Más sobre cómo mantenemos tu información segura.](#)
+Contamos con procesos y procedimientos organizacionales y técnicos adecuados para proteger tu información personal. Sin embargo, ninguna transmisión electrónica por internet o tecnología de almacenamiento de información puede garantizar ser 100% segura, por lo que no podemos prometer o garantizar que hackers, ciberdelincuentes u otras partes no autorizadas puedan derrotar nuestra seguridad y recolectar, acceder, robar o modificar tu información. 
 
 ### ¿Cuáles son tus derechos?
-Dependiendo de dónde te encuentres geográficamente, la ley de privacidad aplicable puede significar que tienes ciertos derechos sobre tu información personal. [Más sobre tus derechos de privacidad.](#)
+Dependiendo de dónde te encuentres geográficamente, la ley de privacidad aplicable puede significar que tienes ciertos derechos sobre tu información personal.
 
 ### ¿Cómo ejerces tus derechos?
-La forma más fácil de ejercer tus derechos es enviando una solicitud de acceso al sujeto de datos o contactándonos. Consideraremos y actuaremos conforme a las leyes de protección de datos aplicables.
+La forma más fácil de ejercer tus derechos es contactándonos. Consideraremos y actuaremos conforme a las leyes de protección de datos aplicables.
 
 ¿Quieres aprender más sobre lo que hacemos con la información que recopilamos? Revisa la Política de Privacidad completa.
 
@@ -57,7 +52,7 @@ La forma más fácil de ejercer tus derechos es enviando una solicitud de acceso
 12. ¿CÓMO PUEDES REVISAR, ACTUALIZAR O ELIMINAR LOS DATOS QUE RECOPILAMOS DE TI?
 
 ### 1. ¿QUÉ INFORMACIÓN RECOPILAMOS?
-**Información personal que nos revelas**  
+**Información personal que nos proporcionas**  
 En resumen: Recopilamos información personal que tú nos proporcionas.
 
 Recopilamos información personal que tú nos proporcionas voluntariamente cuando expresas interés en obtener información sobre nosotros o nuestros productos y Servicios, cuando participas en actividades en los Servicios o cuando nos contactas.
@@ -99,8 +94,7 @@ ninguna transmisión electrónica por internet o tecnología de almacenamiento d
 ### 7. ¿RECOPILAMOS INFORMACIÓN DE MENORES?
 En resumen: No recopilamos datos conscientemente de niños menores de 18 años ni comercializamos con ellos.
 
-No recopilamos ni solicitamos datos de niños menores de 18 años, ni comercializamos con dicha información personal. Si descubrimos que hemos recopilado información personal de menores de 18 años, desactivaremos la cuenta y tomaremos medidas 
-razonables para eliminar dicha información.
+No recopilamos ni solicitamos datos de niños menores de 18 años, ni comercializamos con dicha información personal. Si descubrimos que hemos recopilado información personal de menores de 18 años, desactivaremos la cuenta y tomaremos medidas razonables para eliminar dicha información.
 
 ### 8. ¿CUÁLES SON TUS DERECHOS DE PRIVACIDAD?
 En resumen: En algunas regiones, como el Área Económica Europea (EEA), el Reino Unido (UK) y Suiza, tienes derechos que te otorgan mayor acceso y control sobre tu información personal.
@@ -108,8 +102,7 @@ En resumen: En algunas regiones, como el Área Económica Europea (EEA), el Rein
 Puedes revisar, cambiar o desactivar tu cuenta en cualquier momento, dependiendo de tu país, provincia o estado de residencia.
 
 ### 9. CONTROLES PARA FUNCIONES DE NO RASTREAR
-La mayoría de los navegadores web y algunos sistemas operativos móviles incluyen una función de No Rastrear (DNT) que puedes activar para señalar tu preferencia de privacidad de no tener tus actividades de navegación en línea monitorizadas
-y recopiladas. Actualmente, no respondemos a señales DNT o mecanismos similares.
+La mayoría de los navegadores web y algunos sistemas operativos móviles incluyen una función de No Rastrear (DNT) que puedes activar para señalar tu preferencia de privacidad de no tener tus actividades de navegación en línea monitorizadas y recopiladas. Actualmente, no respondemos a señales DNT o mecanismos similares.
 
 ### 10. ¿REALIZAMOS ACTUALIZACIONES A ESTA POLÍTICA?
 Sí, actualizaremos esta política según sea necesario para cumplir con las leyes relevantes.
