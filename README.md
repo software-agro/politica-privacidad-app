@@ -5,7 +5,7 @@ Esta Política de Privacidad de Mercado Montilla ("nosotros," "nos" o "nuestro")
 - Descargas y usas nuestra aplicación móvil (Patatas Montilla), o cualquier otra aplicación nuestra que enlace con esta Política de Privacidad.
 - Te involucras con nosotros de otras maneras relacionadas, incluyendo ventas, marketing o eventos.
 
-¿Tienes preguntas o preocupaciones? Leer esta Política de Privacidad te ayudará a entender tus derechos de privacidad y opciones. Somos responsables de tomar decisiones sobre cómo se procesa tu información personal. 
+¿Tienes preguntas o preocupaciones? Leer esta Política de Privacidad te ayudará a entender tus derechos de privacidad. Somos responsables de tomar decisiones sobre cómo se procesa tu información personal. 
 Si no estás de acuerdo con nuestras políticas y prácticas, por favor, no utilices nuestros Servicios. Si aún tienes preguntas o preocupaciones, contáctanos en diego@mercadomontilla.com.
 
 ## RESUMEN DE PUNTOS CLAVE
@@ -14,7 +14,7 @@ a continuación para encontrar la sección que buscas.
 
 ### ¿Qué información personal procesamos?
 Cuando visitas, usas o navegas por nuestros Servicios, podemos procesar información personal dependiendo de cómo interactúas con nosotros y los Servicios, las opciones que elijas y los productos y características que uses. 
-[Más información sobre la información personal que nos revelas.](#1.-¿que-informacion-recopilamos?)
+[Más información sobre la información personal que nos revelas.](#1-qué-información-recopilamos)
 
 ### ¿Procesamos alguna información personal sensible?
 Algunas de las informaciones pueden considerarse "especiales" o "sensibles" en ciertas jurisdicciones, como tus orígenes raciales o étnicos, orientación sexual y creencias religiosas. No procesamos información personal sensible.
