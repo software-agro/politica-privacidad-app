@@ -14,7 +14,7 @@ a continuación para encontrar la sección que buscas.
 
 ### ¿Qué información personal procesamos?
 Cuando visitas, usas o navegas por nuestros Servicios, podemos procesar información personal dependiendo de cómo interactúas con nosotros y los Servicios, las opciones que elijas y los productos y características que uses. 
-[Más información sobre la información personal que nos revelas.](#)
+[Más información sobre la información personal que nos revelas.](##-que-informacion-recopilamos)
 
 ### ¿Procesamos alguna información personal sensible?
 Algunas de las informaciones pueden considerarse "especiales" o "sensibles" en ciertas jurisdicciones, como tus orígenes raciales o étnicos, orientación sexual y creencias religiosas. No procesamos información personal sensible.
@@ -56,7 +56,7 @@ La forma más fácil de ejercer tus derechos es enviando una solicitud de acceso
 11. ¿CÓMO PUEDE CONTACTARNOS SOBRE ESTA POLÍTICA?
 12. ¿CÓMO PUEDES REVISAR, ACTUALIZAR O ELIMINAR LOS DATOS QUE RECOPILAMOS DE TI?
 
-### 1. ¿QUÉ INFORMACIÓN RECOPILAMOS? (#que-informacion-recopilamos)
+### 1. [¿QUÉ INFORMACIÓN RECOPILAMOS?] (#que-informacion-recopilamos)
 **Información personal que nos revelas**  
 En resumen: Recopilamos información personal que tú nos proporcionas.
 
